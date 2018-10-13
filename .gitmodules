@@ -1,0 +1,3 @@
+[submodule "SunlightControl"]
+	path = SunlightControl
+	url = https://github.com/setminami/SunlightControl.git
