@@ -1,3 +1,6 @@
 [submodule "SunlightControl"]
 	path = SunlightControl
 	url = https://github.com/setminami/SunlightControl.git
+[submodule "IoTConnections"]
+	path = IoTConnections
+	url = https://github.com/setminami/IoTConnections.git
